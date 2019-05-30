@@ -1,0 +1,4 @@
+# Created at 2019-05-24T17:05:48.338
+Boot Manifest-JAR contains absolute paths in classpath 'E:\eclipse-jee-photon-R-win32-x86_64\workspace\Webdrivertest\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
